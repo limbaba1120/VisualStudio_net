@@ -1,0 +1,17 @@
+C:\Current Work\Student Module\Project\MyProject\MyProject\bin\MyProject.dll.config
+C:\Current Work\Student Module\Project\MyProject\MyProject\bin\MyProject.dll
+C:\Current Work\Student Module\Project\MyProject\MyProject\bin\MyProject.pdb
+C:\Current Work\Student Module\Project\MyProject\MyProject\bin\MyProject.xml
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.vbproj.AssemblyReference.cache
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.Resources.resources
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.vbproj.GenerateResource.cache
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.vbproj.CoreCompileInputs.cache
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.xml
+C:\Current Work\Student Module\Project\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\1\OneDrive\바탕 화면\Singapore\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\1\OneDrive\바탕 화면\Singapore\MyProject\MyProject\obj\Debug\MyProject.xml
+C:\Users\1\OneDrive\바탕 화면\Singapore\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\1\source\repos\MyProject\MyProject\obj\Debug\MyProject.dll
+C:\Users\1\source\repos\MyProject\MyProject\obj\Debug\MyProject.xml
+C:\Users\1\source\repos\MyProject\MyProject\obj\Debug\MyProject.pdb
